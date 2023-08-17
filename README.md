@@ -1,2 +1,3 @@
 # Projeto-Optescreen
- projeto HTML voltado para 
+ Projeto HTML voltado para aprimoramento 
+em HTML e CSS.
